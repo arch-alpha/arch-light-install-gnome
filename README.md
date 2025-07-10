@@ -42,7 +42,8 @@ Ce guide est basé sur une installation **réelle**, testée par quelqu’un qui
 - Télécharge l’ISO d’Arch depuis [archlinux.org](https://archlinux.org/download/)
 - Utilise **Rufus** (Windows) ou `dd` (Linux) pour créer la clé
 - Démarre dessus (boot menu)
-- ou carrement ton telephone avec lapplication etchdroid
+- Ou carrément ton téléphone avec l’application **EtchDroid**  
+- Démarre dessus (boot menu)
 ---
 
 ### 2. Se connecter au Wi-Fi
@@ -56,6 +57,7 @@ Ce guide est basé sur une installation **réelle**, testée par quelqu’un qui
 📡 Étape 2 – Se connecter :
 
 `nmcli device wifi connect "Nom_Du_WiFi" password "motdepasse"`
+🛠️ Remplace "Tenda_B64AF0" et "azerty123" par le nom et le mot de passe de ton propre réseau Wi-Fi.
 
 Exemple :
 
@@ -117,4 +119,16 @@ Ton PC va respirer.
 📷 À venir ! Tu peux contribuer en envoyant tes avant/après !
 ❤️ Contribution
 
-- et si ta eu une belle interface avec un minimum de ram utiliser bah bravo a toi tes officielmet lellite de arch et envoi moi un petit retour sur insta : @yanis_archlinux 
+Et si t’as réussi à faire tourner GNOME avec moins de 1 Go de RAM...
+🥁 Bravo à toi ! T’es officiellement dans l’élite Arch Linux.
+
+    Envoie-moi un petit retour sur Instagram :
+    📸 @yanis_archlinux
+
+   
+🧠 Citation à méditer
+
+    “Ton PC n’est pas vieux.
+    C’est juste Windows qui est obèse.”
+    – Un archiste repenti :
+    Tu n’as plus qu’à 
