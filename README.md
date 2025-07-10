@@ -15,6 +15,12 @@ Arch Linux n’a pas juste sauvé mon PC. Il lui a redonné une nouvelle vie.
 
 Ce guide est basé sur une installation **réelle**, testée par quelqu’un qui, comme toi, voulait juste un PC fonctionnel sans lag ni prise de tête.
 
+⚠️ Responsabilité
+Ce guide est fourni à titre informatif, basé sur mon expérience personnelle.
+Je ne suis pas responsable en cas de perte de données, mauvaise manipulation ou autre souci technique.
+⚠️ Sauvegardez toujours vos fichiers importants avant toute installation.⚠️ Sauvegarde tes fichiers, frère.
+Si tu formates C:\ sans backup, c’est pas moi le sorcier 🧙‍♂️
+Tu bricoles → tu assumes 💀
 ---
 
 ## ⚙️ Ce que tu vas faire
