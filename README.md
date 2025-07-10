@@ -51,11 +51,11 @@ Ce guide est basé sur une installation **réelle**, testée par quelqu’un qui
 
 🔍 Étape 1 – Voir les réseaux disponibles :
 
-nmcli device wifi list
+¹nmcli device wifi list¹
 
 📡 Étape 2 – Se connecter :
 
-nmcli device wifi connect "Nom_Du_WiFi" password "motdepasse"
+¹nmcli device wifi connect "Nom_Du_WiFi" password "motdepasse"¹
 
 Exemple :
 
