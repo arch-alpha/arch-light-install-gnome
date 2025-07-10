@@ -63,7 +63,7 @@ Ce guide est basé sur une installation **réelle**, testée par quelqu’un qui
 
 Exemple :
 
-nmcli device wifi connect "Tenda_B64AF0" password "azerty123" modifer le avec votre wifi
+`nmcli device wifi connect "Tenda_B64AF0" password "azerty123" modifer le avec votre wifi`
 ---
 
 ### 3. Lancer l’installation automatique
