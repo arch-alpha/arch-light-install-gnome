@@ -10,7 +10,7 @@ Tu galères avec un vieux PC sous Windows 7 ou 10 ?
 T’ouvres Chrome et t’as l’impression de lancer GTA 6 ?  
 Tu mérites mieux. Ton PC aussi.  
 ➡️ Passe à **Arch Linux** : rapide, léger, moderne, stylé.
-💡 Testé avec Firefox (2 onglets), GNOME, gestionnaire de fichiers et éditeur de texte : moins de 2 Go de RAM utilisée !
+💡 Testé avec Firefox (2 onglets), GNOME, gestionnaire de fichiers et éditeur de texte et le Terminal : moins de 2 Go de RAM utilisée !
 Arch Linux n’a pas juste sauvé mon PC. Il lui a redonné une nouvelle vie.
 
 Ce guide est basé sur une installation **réelle**, testée par quelqu’un qui, comme toi, voulait juste un PC fonctionnel sans lag ni prise de tête.
