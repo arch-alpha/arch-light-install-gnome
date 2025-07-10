@@ -39,7 +39,7 @@ Ce guide est basé sur une installation **réelle**, testée par quelqu’un qui
 ## 🧭 Étapes détaillées
 
 ### 1. Créer la clé USB bootable
-- Télécharge l’ISO d’Arch depuis [archlinux.org]()
+- Télécharge l’ISO d’Arch depuis [archlinux.org](https://archlinux.org/download/)
 - Utilise **Rufus** (Windows) ou `dd` (Linux) pour créer la clé
 - Démarre dessus (boot menu)
 - ou carrement ton telephone avec lapplication etchdroid
