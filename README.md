@@ -130,5 +130,4 @@ Et si t’as réussi à faire tourner GNOME avec moins de 1 Go de RAM...
 
     “Ton PC n’est pas vieux.
     C’est juste Windows qui est obèse.”
-    – Un archiste repenti :
-    Tu n’as plus qu’à 
+    – Un archiste repenti
