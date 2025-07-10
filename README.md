@@ -18,7 +18,8 @@ Ce guide est basé sur une installation **réelle**, testée par quelqu’un qui
 ⚠️ Responsabilité
 Ce guide est fourni à titre informatif, basé sur mon expérience personnelle.
 Je ne suis pas responsable en cas de perte de données, mauvaise manipulation ou autre souci technique.
-⚠️ Sauvegardez toujours vos fichiers importants avant toute installation.⚠️ Sauvegarde tes fichiers, frère.
+⚠️ Sauvegardez toujours vos fichiers importants avant toute installation.
+⚠️ Sauvegarde tes fichiers, frère.
 Si tu formates C:\ sans backup, c’est pas moi le sorcier 🧙‍♂️
 Tu bricoles → tu assumes 💀
 ---
